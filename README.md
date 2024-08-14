@@ -18,3 +18,5 @@ Please note that the original PDF file and HTML page used for web scraping are n
  
 
 
+Dataset:Farah21/frenchOrientation
+Fine-Tuned Model:saifalh/frenchOrientationModel
