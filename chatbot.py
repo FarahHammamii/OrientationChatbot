@@ -70,7 +70,7 @@ if not st.session_state.animations_run:
     st.session_state.animations_run = True
 else:
 
-    animated_text = """Bonjour ! Je suis ORIENTAI, votre assistant IA amical et compétent, créé pour vous aider dans une large gamme de tâches et répondre à vos questions, en particulier dans les domaines médical et pharmaceutique.
+    animated_text = """Bonjour ! Je suis ORIENTAI, votre assistant IA amical et compétent, créé pour vous aider dans une large gamme de tâches et répondre à vos questions.
 Mon objectif est de vous assister de manière efficace et précise, afin que vous receviez les meilleures informations et le soutien le plus adapté possible.."""
     st.sidebar.text_area("", animated_text, height=len(animated_text)//2+1)
 
